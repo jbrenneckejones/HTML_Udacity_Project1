@@ -1,0 +1,79 @@
+
+body
+{
+        padding: 20px 20px;
+}
+
+p
+{
+        margin: 10px 0;
+}
+
+ul
+{
+        list-style-type: disc;
+}
+
+li
+{
+        font-size: 20px;
+        line-height: 45px;
+}
+
+.Lesson-Title
+{
+        text-align: left;
+        font-size: xx-large;
+        font-weight: bolder;
+}
+
+.Lesson
+{
+        background-color: lime;
+        border-radius: 20px;
+        color: black;
+        padding: 10px;
+        margin: 10px auto;
+}
+
+.Title
+{
+        font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #0a290a;
+}
+
+.Description
+{
+        background-color: #e6ffe6;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+
+h1
+{
+        font-size: 50px;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img
+{
+        display: block;
+        margin: auto;
+        max-width: 75%;
+        height: auto;
+}
+
+*
+{
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box;
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
