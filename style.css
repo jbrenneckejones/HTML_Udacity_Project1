@@ -36,14 +36,6 @@ li
         margin: 10px auto;
 }
 
-.Title
-{
-        font-size: 28px;
-	margin: 8px;
-	text-align: center;
-	color: #0a290a;
-}
-
 .Description
 {
         background-color: #e6ffe6;
@@ -53,11 +45,29 @@ li
 	color: black;
 }
 
-h1
+h2
 {
+        color: rebeccapurple;
+        font-size: 70px;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3
+{
+        color: rebeccapurple;
         font-size: 50px;
         text-align: center;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4
+{
+        color: rebeccapurple;
+        font-size: 40px;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 8px;
 }
 
 img
